@@ -1,12 +1,11 @@
 <h1 align="center">Hello There, I'm Nevil Bavarva</h1>
-<h3 align="center">For recruiters: I am passionate Fullstack Developer🤵 </h3>
-<h3 align="center">For Visitors: sup stalker🌚</h3>
+<h3 align="center">A passionate Fullstack Developer🤵 </h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **GoLang**
 
 - 👨‍💻 My portfolio [https://nevil-bavarva-xhumatl.gamma.site/](https://nevil-bavarva-xhumatl.gamma.site/)
 
-- 💬 Ask me about **MERN stack, Django, .Net, Salesforce (SFCC)**
+- 💬 Ask me about **.Net, Angular, Postgresql, DevOps, MERN stack, Django, Salesforce (SFCC)**
 
 - 📫 How to reach me **nevilbavarva477@gmail.com**
 
